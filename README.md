@@ -40,6 +40,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## CRM
 
+- [Dronelist](https://dronelist.io) - Vertical CRM for commercial drone operators: pipeline, proposals with margin, and price book. Free plan; Pro $20/mo.
+
 ## Customer Support
 
 - [Helploom](https://helploom.com) - Unlimited customer support at a fixed price. Live chat, help center and optionally an AI agent. Free plan available.
